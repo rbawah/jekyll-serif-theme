@@ -2,11 +2,11 @@
 title: Services
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/software_engineer.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Services that revolutionalize your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+From initial consultation to development, implementation, and ongoing support, we offer a comprehensive suite of services designed to ensure success in today's rapidly evolving digital landscape. Trust us to be your strategic partner in turning your software visions into reality.

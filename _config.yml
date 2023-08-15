@@ -1,13 +1,13 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'AltaKima Systems'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
+  desktop: "images/logo/LOGO.png"
+  desktop_height: "auto"
   desktop_width: "120px"
 
 home: 
@@ -19,6 +19,9 @@ collections:
     sort_by: weight
   team:
     output: true
+  careers:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
@@ -31,6 +34,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "careers"
+    values:
+      layout: "job"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

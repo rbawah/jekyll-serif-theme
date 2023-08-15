@@ -1,9 +1,19 @@
 .strip {
-  background: white;
+  background: hsl(0deg 0% 100% / 65%);
   background-repeat: no-repeat;
+
+
 }
 .strip-white {
   background-color: white;
+
+  background: linear-gradient(
+    45deg,
+    hsla(189, 88%, 47%, 0.5),
+    hsla(189, 97%, 48%),
+    hsl(331, 28%, 61%),
+    hsl(330deg 14% 50%),
+  );
 }
 .strip-grey {
   background-color: $white-offset;
@@ -53,4 +63,14 @@
 
 .strip-bg-cover {
   background-size: cover;
+}
+
+.strip-gradient {
+  background: linear-gradient(
+    45deg,
+    hsla(189deg 5% 90% / 90%),
+    hsla(189deg 97% 48% / 65%),
+    hsl(331deg 28% 61% / 30%),
+    hsl(330deg 14% 50% / 20%),
+  );
 }

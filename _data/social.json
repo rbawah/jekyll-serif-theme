@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/company/altakima-systems-inc/",
+    "image": "images/social/linkedIn.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/altakima",
     "image": "images/social/twitter.svg"
   }
 ]
